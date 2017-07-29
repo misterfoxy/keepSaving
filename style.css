@@ -1,0 +1,48 @@
+body {
+  background-color: #4c4444;
+}
+
+.main-section {
+  background-color: #4f6351;
+  text-align: center;
+  height: 500px;
+  margin-bottom: 40px;
+}
+
+.goals, .expenses {
+  background-color: #59a05f;
+  border-radius: 5px;
+  width: 200px;
+  margin-top: 30px;
+
+}
+
+.expenses{
+  margin-left: 20px;
+  float:left;
+}
+
+.expenses p, .goals p, .cash p{
+  padding-bottom: 10px;
+  border-bottom: 2px solid #4f6351;
+}
+.goals{
+  float: right;
+  margin-right: 20px;
+}
+
+.cash {
+  background-color: #bbc9bc;
+  border-radius: 5px;
+  margin-left: 130px;
+  margin-top: 25px;
+}
+
+footer {
+  background-color: #4c4444;
+  text-align: center;
+}
+
+li{
+  list-style: none;
+}
